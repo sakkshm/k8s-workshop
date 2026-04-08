@@ -4,8 +4,6 @@ This workshop builds a complete mental model from:
 
 Process → Containers → Docker → Distributed Systems → Kubernetes
 
-[Demo URL](dub.sh/k8s-demo)
-
 ## Sections
 
 1. Foundations (Processes, VMs, Containers)
